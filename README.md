@@ -1,12 +1,14 @@
 
 ## About Me
-~~lala~~
+==highlight==
 
+> blockcode
 
 ```java script
 Student = {
     name: 'Thiago Santos',
     age: 19,
+    goal: 'Piece'
     favs: {
         language: 'JavaScript',
         hobbie: 'Study',
