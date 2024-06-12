@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-<h1 style="text-align:center">About me</h1>
+## About Me
+
+```
+Student = {
+    name: 'Thiago Santos',
+    age: 19,
+    favs: {
+        language: 'Java',
+        hobbie: 'Study'
+    } 
+}
+```
 
 <!--
 **Sant-Thiago/Sant-Thiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
