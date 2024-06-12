@@ -1,29 +1,24 @@
-## Hi there 👋
 
 ## About Me
+~~lala~~
+
 
 ```java script
 Student = {
     name: 'Thiago Santos',
     age: 19,
     favs: {
-        language: 'Java',
-        hobbie: 'Study'
-    } 
+        language: 'JavaScript',
+        hobbie: 'Study',
+        cli: 'PS1',
+        book: 'The Prince: Niccolo Machiavelli'
+    },
+    likes: [
+        'Study',
+        'Football',
+        'Music',
+        'Marijuana'
+    ],
+    Status: 'Programing...'
 }
 ```
-
-<!--
-**Sant-Thiago/Sant-Thiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
