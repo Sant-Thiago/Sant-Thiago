@@ -2,7 +2,7 @@
 
 ## About Me
 
-```java
+```java script
 Student = {
     name: 'Thiago Santos',
     age: 19,
