@@ -37,8 +37,8 @@ const me = {
 
 ## Top Languages 
 
-<div style="display: flex">
-    <p align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 20px; text-align: center;">
         <a href="https://devicon.dev">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
@@ -50,14 +50,18 @@ const me = {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
         </a>
-    <br>
-        <blockquote>
-            I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
-        </blockquote>
-    </p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago" alt="Sant-Thiago's Top Langs"/>
-    </a>
+        <br>
+        <div>
+            <blockquote>
+                I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
+            </blockquote>
+        </div>
+    </div>
+    <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago" alt="Sant-Thiago's Top Langs"/>
+        </a>
+    </div>
 </div>
 
 
