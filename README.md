@@ -28,8 +28,8 @@ const me = {
 }
 ```
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=dark" alt="Sant-Thiago's GitHub stats"/>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Sant-Thiago&theme=dark" alt="Sant-Thiago's GitHub Streak"/>
     </a>    
 </p>
 
@@ -56,7 +56,7 @@ const me = {
         </blockquote>
     </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago&layout=pie" alt="Sant-Thiago's Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago" alt="Sant-Thiago's Top Langs"/>
     </a>
 </p>
 
