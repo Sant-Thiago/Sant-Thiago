@@ -27,9 +27,11 @@ const me = {
     Status: 'Programing...'
 }
 ```
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=radical" alt="Sant-Thiago's GitHub stats" />
-</a>    
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=radical" alt="Sant-Thiago's GitHub stats"/>
+    </a>    
+</p>
 
 
 
@@ -39,9 +41,9 @@ const me = {
     <a href="https://devicon.dev">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="45" height="45"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
