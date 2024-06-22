@@ -49,9 +49,10 @@ const me = {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
     </a>
+> I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
 </p>
 
-> I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
+
 
 ## Tools used
 
