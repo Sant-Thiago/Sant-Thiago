@@ -37,7 +37,7 @@ const me = {
 ## Top Languages 
 
 <p align="left">
-    <a href="https://devicon.dev">
+    <a href="https://devicon.dev" align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
@@ -49,7 +49,7 @@ const me = {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
     </a>
     <br>
-    <blockquote style="margin: 0; padding: 0; border: none;">
+    <blockquote align="left">
         I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
     </blockquote>
 </p>
