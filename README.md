@@ -67,10 +67,10 @@ const me = {
 
 ## Contacts
 <p align="center">
-    <a href="https://www.linkedin.com/in/thiago-vieira-823a372a5/">
+    <a href="mailto:thiagovieirab2b@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="mailto:thiagovieirab2b@gmail.com">
+    <a href="https://www.linkedin.com/in/thiago-vieira-823a372a5/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
     <a href="https://open.spotify.com/playlist/2M0ALlUIuFowutFOdoZ4Yj?si=d0fc8f4c5ab243dd">
