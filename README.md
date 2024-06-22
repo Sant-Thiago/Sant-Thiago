@@ -1,14 +1,16 @@
 
 ## About Me
-==highlight==
 
-> blockcode
+> ### Studying
+>> Systems development analysis in São Paulo Tech
+>
 
 ```java script
-Student = {
-    name: 'Thiago Santos',
+const me = {
+    name: 'Thiago Vieira dos Santos',
     age: 19,
-    goal: 'Piece'
+    ideal: 'Piece & Love'
+    phrase: 'A man forgets more easily the death of his father than the loss of his estate.'
     favs: {
         language: 'JavaScript',
         hobbie: 'Study',
@@ -18,8 +20,7 @@ Student = {
     likes: [
         'Study',
         'Football',
-        'Music',
-        'Marijuana'
+        '4M'
     ],
     Status: 'Programing...'
 }
