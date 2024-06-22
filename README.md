@@ -1,8 +1,8 @@
 
 ## About Me
 
-> Hi, my name is Thiago.<br>
-> I'm currently studying Systems Development Analysis at São Paulo Tech College. I have a passion for learning and enjoy exploring a wide range of subjects. At the moment, I'm actively developing an application using Spring Boot, React, and MySQL.<br>
+> Hi, my name is Thiago.<br><br>
+> I'm currently studying Systems Development Analysis at São Paulo Tech College. I have a passion for learning and enjoy exploring a wide range of subjects. At the moment, I'm actively developing an application using Spring Boot, React, and MySQL.<br><br>
 > By the end of this month, my goal is to deepen my understanding of software engineering, data structures, programming paradigms, and NoSQL databases.
 
 ```java script
