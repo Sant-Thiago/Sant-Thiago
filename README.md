@@ -29,7 +29,7 @@ const me = {
 ```
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=default" alt="Sant-Thiago's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=dark" alt="Sant-Thiago's GitHub stats"/>
     </a>    
 </p>
 
