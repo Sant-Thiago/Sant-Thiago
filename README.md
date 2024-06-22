@@ -2,7 +2,7 @@
 ## About Me
 
 > ### Studying
->> Systems development analysis in São Paulo Tech
+> Systems development analysis in São Paulo Tech
 >
 
 ```java script
