@@ -2,10 +2,9 @@
 ## About Me
 
 > ### Studying
-> Systems development analysis in São Paulo Tech
 > 
+> Systems development analysis in São Paulo Tech
 > Java Quarkus Framework
->
 > NoSQL
 
 ```java script
