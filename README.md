@@ -27,8 +27,9 @@ const me = {
     Status: 'Programing...'
 }
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sant-Thiago\&include_all_commits=true&show_icons=true&theme=radical)    
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&include_all_commits=true&show_icons=true&theme=radical" alt="Sant-Thiago's GitHub stats" />
+</a>    
 
 
 
