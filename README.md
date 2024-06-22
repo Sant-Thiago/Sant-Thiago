@@ -36,12 +36,10 @@ const me = {
 
 ## Top Languages 
 
-<p align="right">
+<p>
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago" alt="Sant-Thiago's Top Langs"/>
     </a>
-</p>
-<p align="left">
     <a href="https://devicon.dev" align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
