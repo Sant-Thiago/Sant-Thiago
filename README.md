@@ -36,8 +36,9 @@ const me = {
 
 ## Top Languages 
 
-<div align="center">
-    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="width: 60%; vertical-align: top; padding-right: 20px; border: none;">
         <a href="https://devicon.dev">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
@@ -50,16 +51,17 @@ const me = {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
         </a>
         <br>
-        <blockquote style="text-align: left;">
+        <blockquote style="margin: 0; padding: 0; border: none;">
             I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
         </blockquote>
-    </div>
-    <div style="display: inline-block;">
+    </td>
+    <td style="width: 40%; vertical-align: top; border: none;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago" alt="Sant-Thiago's Top Langs"/>
         </a>
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 ## Tools used
