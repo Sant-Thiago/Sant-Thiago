@@ -37,8 +37,8 @@ const me = {
 
 ## Top Languages 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 20px; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
         <a href="https://devicon.dev">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
@@ -63,6 +63,7 @@ const me = {
         </a>
     </div>
 </div>
+
 
 
 
