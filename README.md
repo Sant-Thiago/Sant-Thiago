@@ -30,10 +30,18 @@ const me = {
 
 ## Mastered Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,docker,git,powershell,css,html)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=java,js,nodejs,mysql,docker,git,powershell,css,html">
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,mysql,docker,git,powershell,css,html" alt="Mastered Languages">
+  </a>
+</p>
 
 > I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
 
 ## Tools used
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,ps,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=eclipse,idea,ps,vscode">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,ps,vscode" alt="Tools used">
+  </a>
+</p>
