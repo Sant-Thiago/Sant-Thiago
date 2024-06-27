@@ -1,5 +1,5 @@
 ## About Me
-> Hi, my name is Thiago, i am Brazilian 🇧🇷 and living in São Paulo.
+> Hi, my name is Thiago, i am Brazilian 🇧🇷 and live in São Paulo.
 > 
 > I'm currently studying Systems Development Analysis at São Paulo Tech College. I have a passion for learning and enjoy exploring a wide range of subjects. At the moment, I'm actively developing an application using Spring Boot, React, and MySQL.
 >
@@ -9,6 +9,7 @@
 const me = {
     name: 'Thiago Vieira dos Santos',
     age: 19,
+    live: 'São Paulo - Brasil'
     ideal: 'Piece & Love'
     phrase: 'A man forgets more easily the death of his father than the loss of his estate.'
     favs: {
