@@ -1,5 +1,5 @@
 ## About Me
-> Hi, my name is Thiago.
+> Hi, my name is Thiago, i am Brazilian 🇧🇷 and living in São Paulo.
 > 
 > I'm currently studying Systems Development Analysis at São Paulo Tech College. I have a passion for learning and enjoy exploring a wide range of subjects. At the moment, I'm actively developing an application using Spring Boot, React, and MySQL.
 >
