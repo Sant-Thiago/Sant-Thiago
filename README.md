@@ -26,35 +26,35 @@
 >     Status: 'Programing...'
 > }
 > ```
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&theme=monokai&card_width=380" alt="Sant-Thiago's GitHub stats"/>
-    </a>
-    <a href="https://git.io/streak-stats" style="float: right;">
-        <img src="https://streak-stats.demolab.com/?user=Sant-Thiago&theme=monokai&card_width=380" alt="Sant-Thiago's GitHub Streak"/>
-    </a>
-</p>
+> <p>
+>     <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left;">
+>         <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&theme=monokai&card_width=400" alt="Sant-Thiago's GitHub stats"/>
+>     </a>
+>     <a href="https://git.io/streak-stats" style="float: right;">
+>         <img src="https://streak-stats.demolab.com/?user=Sant-Thiago&theme=monokai&card_width=400" alt="Sant-Thiago's GitHub Streak"/>
+>     </a>
+> </p>
 > 
 > 
 > ## Top Languages 
 > <p>
->     <a href="https://github.com/anuraghazra/github-readme-stats">
->         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago&theme=monokai&langs_count=3&hide_title=true" alt="Sant-Thiago's Top Langs"/>
->     </a>
->     <a href="https://devicon.dev" align="left">
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
->         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
->     </a>
->     <blockquote align="left">
->         I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
->     </blockquote>
+>      <a href="https://github.com/anuraghazra/github-readme-stats">
+>          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-Thiago&theme=monokai&langs_count=3&hide_title=true" alt="Sant-Thiago's Top Langs"/>
+>      </a>
+>      <a href="https://devicon.dev" align="left">
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+>      </a>
+>      <blockquote align="left">
+>          I have experience with various languages including Python, SQL Server, C++, and others. However, I have had extensive contact and worked extensively with these ones.
+>      </blockquote>
 > </p>
 > 
 > 
