@@ -27,10 +27,10 @@
 > }
 > ```
 > <p>
->     <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
+>     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
 >         <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&theme=monokai&card_width=380" alt="Sant-Thiago's GitHub stats"/>
 >     </a>
->     <a href="https://git.io/streak-stats" align="right">
+>     <a href="https://git.io/streak-stats" align="left">
 >         <img src="https://streak-stats.demolab.com/?user=Sant-Thiago&theme=monokai&card_width=380" alt="Sant-Thiago's GitHub Streak"/>
 >     </a>
 > </p>
