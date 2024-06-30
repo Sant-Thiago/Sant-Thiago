@@ -13,7 +13,7 @@ const me = {
     ideal: 'Piece & Love'
     phrase: 'A man forgets more easily the death of his father than the loss of his estate.'
     favs: {
-        language: 'JavaScript',
+        language: 'Java',
         hobbie: 'Study',
         cli: 'PS1',
         book: 'The Prince: Niccolo Machiavelli'
