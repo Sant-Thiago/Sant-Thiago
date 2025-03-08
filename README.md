@@ -5,27 +5,6 @@ I'm currently studying Systems Development Analysis at São Paulo Tech College. 
 >
 By the end of this month, my goal is to deepen my understanding of software engineering, data structures, programming paradigms, and NoSQL databases.
 >
-```java script
-const me = {
-    name: 'Thiago Vieira dos Santos',
-    birthday: 2004/11/05,
-    live: 'São Paulo - Brasil'
-    ideal: 'Piece & Love'
-    phrase: 'A man forgets more easily the death of his father than the loss of his estate.'
-    favs: {
-        language: 'Java',
-        hobbie: 'Study',
-        cli: 'PS1',
-        book: 'The Prince: Niccolo Machiavelli'
-    },
-    likes: [
-        'Study',
-        'Football',
-        '4M'
-    ],
-    Status: 'Programing...'
-}
-```
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=Sant-Thiago&theme=monokai&card_width=420" alt="Sant-Thiago's GitHub stats"/>
