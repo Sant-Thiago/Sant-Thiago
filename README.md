@@ -8,7 +8,7 @@ By the end of this month, my goal is to deepen my understanding of software engi
 ```java script
 const me = {
     name: 'Thiago Vieira dos Santos',
-    age: 19,
+    birthday: 2004/11/05,
     live: 'São Paulo - Brasil'
     ideal: 'Piece & Love'
     phrase: 'A man forgets more easily the death of his father than the loss of his estate.'
